@@ -12,17 +12,17 @@ Tracks tasks, bugs, and questions in a GitHub project
 
 Define different issue templates for features, bugs, and questions
 
-- ## Description
+- Description
 - One-line summary of the feature
 - Additional details (you may freely add images, videos, etc.)
 
-- ## Tasks
-- # - [ ] Item 1
-- # - [ ] Item 2
-- # - [ ] Item 3
+- Tasks
+- - [ ] Item 1
+- - [ ] Item 2
+- - [ ] Item 3
 
-- ## References
-- # - [Link text](Link addr)
+- References
+- [Link text](Link addr)
 
 ## Project
 
