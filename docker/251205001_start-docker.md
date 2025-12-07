@@ -38,10 +38,12 @@ docker rmi hello-docker-world -f
 docker rmi <IMAGE_ID>       # remove <none> image
 ```
 
-### Run Docker Container
+### Run & Restart Docker Container
 
 ```bash
 docker run hello-docker-world
+docker stop hello-docker-world
+docker start hello-docker-world
 ```
 
 ### Check & Stop Running Containers
